@@ -1,0 +1,52 @@
+check,passed,detail
+AbsoluteOnly_view_count,True,"observed=2, expected=2"
+RelativeOnly_view_count,True,"observed=2, expected=2"
+Combined_view_count,True,"observed=4, expected=4"
+Trustee_Conservative_AbsoluteOnly_posterior_finite,True,assets=10
+Trustee_Conservative_AbsoluteOnly_MeanVariance_feasible,True,"sum=1.0000000000, bond=0.250000"
+Trustee_Conservative_AbsoluteOnly_MaxSharpe_feasible,True,"sum=1.0000000000, bond=0.324327"
+Trustee_Conservative_RelativeOnly_posterior_finite,True,assets=10
+Trustee_Conservative_RelativeOnly_MeanVariance_feasible,True,"sum=1.0000000000, bond=0.403967"
+Trustee_Conservative_RelativeOnly_MaxSharpe_feasible,True,"sum=1.0000000000, bond=0.410578"
+Trustee_Conservative_Combined_posterior_finite,True,assets=10
+Trustee_Conservative_Combined_MeanVariance_feasible,True,"sum=1.0000000000, bond=0.255377"
+Trustee_Conservative_Combined_MaxSharpe_feasible,True,"sum=1.0000000000, bond=0.371335"
+Market_Balanced_AbsoluteOnly_posterior_finite,True,assets=10
+Market_Balanced_AbsoluteOnly_MeanVariance_feasible,True,"sum=1.0000000000, bond=0.100000"
+Market_Balanced_AbsoluteOnly_MaxSharpe_feasible,True,"sum=1.0000000000, bond=0.240511"
+Market_Balanced_RelativeOnly_posterior_finite,True,assets=10
+Market_Balanced_RelativeOnly_MeanVariance_feasible,True,"sum=1.0000000000, bond=0.220237"
+Market_Balanced_RelativeOnly_MaxSharpe_feasible,True,"sum=1.0000000000, bond=0.311470"
+Market_Balanced_Combined_posterior_finite,True,assets=10
+Market_Balanced_Combined_MeanVariance_feasible,True,"sum=1.0000000000, bond=0.100000"
+Market_Balanced_Combined_MaxSharpe_feasible,True,"sum=1.0000000000, bond=0.301635"
+Kelly_Growth_AbsoluteOnly_posterior_finite,True,assets=10
+Kelly_Growth_AbsoluteOnly_MeanVariance_feasible,True,"sum=1.0000000000, bond=0.050000"
+Kelly_Growth_AbsoluteOnly_MaxSharpe_feasible,True,"sum=1.0000000000, bond=0.328134"
+Kelly_Growth_RelativeOnly_posterior_finite,True,assets=10
+Kelly_Growth_RelativeOnly_MeanVariance_feasible,True,"sum=1.0000000000, bond=0.199556"
+Kelly_Growth_RelativeOnly_MaxSharpe_feasible,True,"sum=1.0000000000, bond=0.366077"
+Kelly_Growth_Combined_posterior_finite,True,assets=10
+Kelly_Growth_Combined_MeanVariance_feasible,True,"sum=1.0000000000, bond=0.050000"
+Kelly_Growth_Combined_MaxSharpe_feasible,True,"sum=1.0000000000, bond=0.338406"
+Kelly_Growth_AbsoluteOnly_MaxSharpe_risk_contribution_sum,True,sum=1.0000000000
+Kelly_Growth_AbsoluteOnly_MeanVariance_risk_contribution_sum,True,sum=1.0000000000
+Kelly_Growth_Combined_Benchmark_risk_contribution_sum,True,sum=1.0000000000
+Kelly_Growth_Combined_MaxSharpe_risk_contribution_sum,True,sum=1.0000000000
+Kelly_Growth_Combined_MeanVariance_risk_contribution_sum,True,sum=1.0000000000
+Kelly_Growth_RelativeOnly_MaxSharpe_risk_contribution_sum,True,sum=1.0000000000
+Kelly_Growth_RelativeOnly_MeanVariance_risk_contribution_sum,True,sum=1.0000000000
+Market_Balanced_AbsoluteOnly_MaxSharpe_risk_contribution_sum,True,sum=1.0000000000
+Market_Balanced_AbsoluteOnly_MeanVariance_risk_contribution_sum,True,sum=1.0000000000
+Market_Balanced_Combined_Benchmark_risk_contribution_sum,True,sum=1.0000000000
+Market_Balanced_Combined_MaxSharpe_risk_contribution_sum,True,sum=1.0000000000
+Market_Balanced_Combined_MeanVariance_risk_contribution_sum,True,sum=1.0000000000
+Market_Balanced_RelativeOnly_MaxSharpe_risk_contribution_sum,True,sum=1.0000000000
+Market_Balanced_RelativeOnly_MeanVariance_risk_contribution_sum,True,sum=1.0000000000
+Trustee_Conservative_AbsoluteOnly_MaxSharpe_risk_contribution_sum,True,sum=1.0000000000
+Trustee_Conservative_AbsoluteOnly_MeanVariance_risk_contribution_sum,True,sum=1.0000000000
+Trustee_Conservative_Combined_Benchmark_risk_contribution_sum,True,sum=1.0000000000
+Trustee_Conservative_Combined_MaxSharpe_risk_contribution_sum,True,sum=1.0000000000
+Trustee_Conservative_Combined_MeanVariance_risk_contribution_sum,True,sum=1.0000000000
+Trustee_Conservative_RelativeOnly_MaxSharpe_risk_contribution_sum,True,sum=1.0000000000
+Trustee_Conservative_RelativeOnly_MeanVariance_risk_contribution_sum,True,sum=1.0000000000

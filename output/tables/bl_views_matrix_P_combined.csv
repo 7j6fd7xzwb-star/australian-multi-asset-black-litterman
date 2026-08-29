@@ -1,0 +1,5 @@
+,VAS.AX,VSO.AX,VHY.AX,VAP.AX,VGS.AX,VGAD.AX,VGE.AX,VAF.AX,VBND.AX,QAU.AX
+abs_VGS_8pct,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+abs_QAU_5pct,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+rel_VGS_minus_VAS_2pct,-1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+rel_VHY_minus_VAS_1pct,-1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
