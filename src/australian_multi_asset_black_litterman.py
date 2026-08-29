@@ -1,8 +1,9 @@
 """
-CQF Final Project - PC
-Australian Multi-Asset Portfolio Construction using Black-Litterman and Factor Views
 
-Single-file quantitative analysis script.
+Australian Multi-Asset Portfolio Construction
+Black-Litterman optimisation, rolling out-of-sample backtesting, and factor attribution.
+
+End-to-end quantitative research pipeline.
 
 It performs:
 1. Data download and cleaning
@@ -1148,7 +1149,7 @@ def run_validation_checks(excess: pd.DataFrame) -> None:
 # =============================================================================
 
 def main() -> None:
-    print("CQF PC single-file quantitative analysis started.")
+    print("Australian multi-asset portfolio analysis started.")
     returns, excess, factors, rf, audusd = run_data_step()
     descriptive_analysis(returns, excess, factors)
     factor_regression(returns, audusd)
